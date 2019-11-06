@@ -1,5 +1,10 @@
 package com.bellis.headfirst.factory;
 
+import com.bellis.headfirst.factory.pizza.Pizza;
+import com.bellis.headfirst.factory.stores.ChicagoPizzaStore;
+import com.bellis.headfirst.factory.stores.NYPizzaStore;
+import com.bellis.headfirst.factory.stores.PizzaStore;
+
 public class Application {
 
     public static void main(String[] args) {
