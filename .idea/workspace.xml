@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c86ee1b-5720-41fd-931d-55f780d478ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Avacodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/BeefBrisket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/BlackOlives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Brisket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/CaliforniaPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/EggPlant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/FrozenClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/MozzarellaCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/OrganicBeefBrisket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/PizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/PlumSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/RedPepper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/SlicedPepporoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Spinach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/ThickCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ingredients/Veggies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/BrisketPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/stores/CaliforniaPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/bellis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ChicagoClam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ChicagoPepperoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/stores/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ChicagoStyleCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ChicagoVeggie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/NYCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/NYClam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/NYPepporoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/stores/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/NYVeggie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/PepporoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/PepporoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/stores/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/SimplePizzaFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/factory/pizza/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/behaviors/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/behaviors/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/duck/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bellis/headfirst/strategy/duck/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bellis/headfirst/strategy/duck/MallardDuckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bellis/headfirst/strategy/duck/MallardDuckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/CheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ChicagoClam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ChicagoPepperoni.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ChicagoPizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ChicagoStyleCheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ChicagoVeggie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/ClamPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/NYCheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/NYClam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/NYPepporoni.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/NYPizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/NYVeggie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/PepporoniPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/PizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/SimplePizzaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/factory/VeggiePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/strategy/application/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/strategy/behaviors/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/strategy/duck/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bellis/headfirst/strategy/duck/ModelDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bellis/headfirst/strategy/duck/MallardDuckTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,6 +137,7 @@
       <workItem from="1572709183803" duration="14821000" />
       <workItem from="1572796929695" duration="1300000" />
       <workItem from="1573003079813" duration="623000" />
+      <workItem from="1573060711669" duration="1755000" />
     </task>
     <servers />
   </component>
